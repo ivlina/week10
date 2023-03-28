@@ -1,0 +1,16 @@
+h1 {
+   text-align: center; 
+}
+
+img {
+    margin: auto;
+}
+
+button {
+    background-color: dimgrey;
+    color: beige;
+
+    border-radius: 10px;
+    border: 0px;
+    padding: 10px;
+}

@@ -26,3 +26,7 @@ let checkLeapYear = (year) => {
         console.log(`Год не високосный (у него 365 дней).`)
     }
 };
+
+// EXAMPLE
+checkLeapYear(2023);
+checkLeapYear(2020);
